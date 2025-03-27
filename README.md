@@ -7,7 +7,7 @@
 
 <code style="color : gold">Games</code> : ***Pokémon***, **God of War**, **The Legend of Zelda**, *Rayman*, *Kid Icarus*, *BATIM*, Digimon, SCP.
 
-<code style="color : lightskyblue">Series/TV show/Film</code> : **SAW**, **Regular Show**, **House M.D.**, **The Mandela Catalogue**, **FBI: International**, *The Smurfs*, *Percy Jackson*, *Lego DC Justice League*, Ninjago.
+<code style="color : lightskyblue">Series/TV show/Film</code> : **The Mandela Catalogue**, **SAW**, **Regular Show**, **House M.D.**, **FBI: International**, *The Smurfs*, *Percy Jackson*, *Lego DC Justice League*, Ninjago.
 
 <code style="color : red">Anime/Manga</code> : ***Pokémon Adventures/PokéSpe***, **Saiki Kusuo**, **Kaitou Joker**, Dandadan.
 
@@ -33,7 +33,7 @@ None : Tryna get to know the fandom. (I rejoined some) 🎉
 
 **Keep in mind** :
 
-*That my main fandom is Pokémon, TLoZ, GoW, SAW, and TMC. I don't have the Ponytown skins for some interests. But you can talk about my interests if you also like the media! ^^*
+*That my main fandom is Pokémon, TMC, TLoZ, and GoW. I don't have the Ponytown skins for some interests. But you can talk about my interests if you also like the media! ^^*
 
 Also here's some of my favourite characters!
 
