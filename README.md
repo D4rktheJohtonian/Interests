@@ -5,9 +5,9 @@
 ![Spr_B2W2_Blue](https://github.com/user-attachments/assets/9d815c55-874c-41a6-b736-672a21fcf88f)
 ![Spr_HGSS_Silver](https://github.com/user-attachments/assets/afae488b-d571-41a8-bc38-cf200e02d73d)
 
-<code style="color : gold">Games</code> : ***Pokémon***, **God of War**, **The Legend of Zelda**, *Rayman*, *Kid Icarus*, *BATIM*, Digimon, SCP.
+<code style="color : gold">Games</code> : ***Pokémon***, **SCP**, **God of War**, **The Legend of Zelda**, *Rayman*, *Kid Icarus*, *BATIM*, Digimon.
 
-<code style="color : lightskyblue">Series/TV show/Film</code> : **The Mandela Catalogue**, **SAW**, **Regular Show**, **House M.D.**, **FBI: International**, *The Smurfs*, *Percy Jackson*, *Lego DC Justice League*, Ninjago.
+<code style="color : lightskyblue">Series/TV show/Film</code> : **The Mandela Catalogue**, **Regular Show**, **House M.D.**, **FBI: International**, *SAW*, *The Smurfs*, *Lego DC Justice League*, Percy Jackson, Ninjago.
 
 <code style="color : red">Anime/Manga</code> : ***Pokémon Adventures/PokéSpe***, **Saiki Kusuo**, **Kaitou Joker**, Dandadan.
 
